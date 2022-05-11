@@ -8,7 +8,6 @@ function Noticia() {
     return(
         <div className="my-class">
             <h1 className="my-title">{titulo}</h1>
-            <h2 className="my-description">{descripcion}</h2>
         </div>
     )
 }
